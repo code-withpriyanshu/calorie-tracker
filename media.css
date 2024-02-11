@@ -12,7 +12,8 @@ button{
     font-size: large;
     padding-left: 15px;
     padding-right: 15px;
-
+    transition: opacity ease-in-out 100ms;
+    font-weight: 600;
 }
 
 button:hover{
